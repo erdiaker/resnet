@@ -1,6 +1,6 @@
 
-ResNet with Tensorflow High-Level APIs
-======================================
+ResNet 
+======
 
 An implementation of [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf) using Tensorflow high-level APIs.
 
