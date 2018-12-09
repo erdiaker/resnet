@@ -7,6 +7,11 @@ An implementation of [Deep Residual Learning for Image Recognition](https://arxi
 ## Data
 Scripts to train and evaluate the model with [Open Images V4 dataset](https://storage.googleapis.com/openimages/web/index.html) are included in `data.py`. Instructions to download the dataset are [here](https://github.com/cvdfoundation/open-images-dataset).
 
+## Dependencies
+```sh
+pip3 install -r requirements.txt
+```
+
 ## Training and Evaluation
 ```sh
 python3 train.py \
